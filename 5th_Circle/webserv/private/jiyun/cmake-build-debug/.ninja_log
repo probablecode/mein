@@ -1,0 +1,26 @@
+# ninja log v5
+1494	1587	1685965958700620443	test	a89e88518062de32
+2	533	1685887767655914628	CMakeFiles/test.dir/utils/MyString.cpp.o	9188f422d961e57e
+0	110	1686028917221999200	build.ninja	eece5c458e6ad8e9
+1	844	1685856202958949356	CMakeFiles/test.dir/ClientSocket.cpp.o	ca63631b0e3e4408
+4	1126	1685965958233736308	CMakeFiles/test.dir/main.cpp.o	5729bacded705a20
+3	1180	1685965958289128074	CMakeFiles/test.dir/LocationConfig.cpp.o	404c9c875faf0cbc
+1	847	1685856202958940787	CMakeFiles/test.dir/ListeningSocket.cpp.o	f5ff695693a94ac9
+3	1240	1685965958348969422	CMakeFiles/test.dir/Config.cpp.o	4ce31be6912cabec
+2	471	1685887745403827677	CMakeFiles/test.dir/ConfigUtils.cpp.o	b998214a4c812865
+3	1116	1685965958221555435	CMakeFiles/test.dir/Client.cpp.o	2611a4520f9fb4ff
+5	1410	1685965958521335865	CMakeFiles/test.dir/ServerBlock.cpp.o	48037a887b56acf8
+4	1388	1685965958498211465	CMakeFiles/test.dir/Server.cpp.o	c9d5063b9f7e2728
+5	74	1685887488921674661	CMakeFiles/test.dir/Udata.cpp.o	b33292d5c24182d8
+4	1434	1685965958546976736	CMakeFiles/test.dir/Location.cpp.o	653ac949189fc61d
+5	1494	1685965958608030550	CMakeFiles/test.dir/Webserv.cpp.o	1932935c9010f086
+4	1294	1685965958404501021	CMakeFiles/test.dir/ServerConfig.cpp.o	d986eaedb85d9334
+2	455	1685887745387901596	CMakeFiles/test.dir/utils/CustomException.cpp.o	5e31819958629bee
+5	812	1685887489654986502	CMakeFiles/test.dir/Socket.cpp.o	35a71aa98f2b5734
+3	877	1686028927123176721	CMakeFiles/test.dir/Client.cpp.o	2611a4520f9fb4ff
+3	895	1686028927142484103	CMakeFiles/test.dir/main.cpp.o	5729bacded705a20
+3	1013	1686028927261544872	CMakeFiles/test.dir/Config.cpp.o	4ce31be6912cabec
+4	1054	1686028927304318167	CMakeFiles/test.dir/ServerConfig.cpp.o	d986eaedb85d9334
+4	1142	1686028927390659718	CMakeFiles/test.dir/Server.cpp.o	c9d5063b9f7e2728
+4	1264	1686028927516401623	CMakeFiles/test.dir/Webserv.cpp.o	1932935c9010f086
+1264	1347	1686028927600436752	test	a89e88518062de32
